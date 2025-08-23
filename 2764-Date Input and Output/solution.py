@@ -8,4 +8,4 @@ while True:
         print(f"{dd}-{mm}-{yy}")
 
     except EOFError:
-        break  
+        break
